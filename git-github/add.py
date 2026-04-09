@@ -1,5 +1,5 @@
-def add(a, d,f):
-    return a + d + f
+def add(b, d,f):
+    return b + d + f
 
-c = add(2, 3, 7)
+c = add(6, 3, 7)
 print(c)
