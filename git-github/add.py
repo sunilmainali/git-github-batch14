@@ -1,5 +1,5 @@
-def add(a, b):
-    return a + b
+def add(a, f):
+    return a + f
 
-c= add(2, 3)
+c = add(2, 3)
 print(c)
